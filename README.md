@@ -35,7 +35,7 @@
 
 *   **valueformoney**: Rated between 1-5
 
-[10:20 PM, 8/7/2022] DS Shreyas Movale: # Objective
+
 Detail about airline passenger data referral The given data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scrapped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends. We have tested the data and done some Exploratory data analysis to build machine learning models for the prediction of the dependent factor which is the recommendation of airlines by the passenger to his\her friend.
 # ExploratoryData Analysis
 The Exploratory Data Analysis (EDA) plays a
